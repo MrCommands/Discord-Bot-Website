@@ -5,10 +5,10 @@ import { MdAddModerator } from "react-icons/md";
 import { SiProbot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
-  name: "AnberBot ",
+  name: "Giveaway Robo",
   //BotName
   inviteLink:
-    "https://discord.com/api/oauth2/authorize?client_id=1077347451633147984&permissions=37088592&scope=applications.commands%20bot",
+    "https://discord.com/api/oauth2/authorize?client_id=1081195277081395290&permissions=2147829825&scope=applications.commands%20bot",
   //BotInvite Link
   Features: [
     {
@@ -58,7 +58,7 @@ const config = {
   twitterLink: "https://twitter.com",
   mediumLink: "https://medium.com/",
   facebookLink: "https://facebook.com",
-  discordLink: "https://discord.gg/NQK2DgZN3V",
+  discordLink: "https://discord.gg/VV7k6gBj",
   youtubeLink: "https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ",
 };
 
